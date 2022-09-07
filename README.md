@@ -13,12 +13,11 @@
 </p>
 
 
-I am a second year student pursuing *Bachelor in Computer Science Engineering with Honors* at Chandigarh University. I am currently 
+I am a third year student pursuing *Bachelor in Computer Science Engineering with Honors* at Chandigarh University. I am currently 
 working on my *competitive programming* skills. I participate in competitive programming competitions on Wednesday and Sunday. Sometimes even on Saturday. 
-Remaining days of the week are spent figuring out the solution to the unsolved problems of my last competition.
+Additionally, I solve Leetcode problem of the day to make sure I practise at least one problem a day.
 
-Minor portion of my time is spent in expanding my *android development* knowledge. I have been learning android development using *Java* for more than a year now. 
-I still have a long road ahead of me.
+Minor portion of my time is spent in expanding my knowledge on *computer networking*. I aim to have a good knowledge of networkng by the end of this year.
 
 ## Tools
 
