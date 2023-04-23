@@ -14,10 +14,9 @@
 
 
 I am a third year student pursuing *Bachelor in Computer Science Engineering with Honors* at Chandigarh University. I am currently 
-working on my *competitive programming* skills. I participate in competitive programming competitions on Wednesday and Sunday. Sometimes even on Saturday. 
-Additionally, I solve Leetcode problem of the day to make sure I practise at least one problem a day.
+working on my *competitive programming* skills. I participate in competitive programming competitions on Saturday and Sunday. I do upsolving to improve my competitive programming skills.
 
-Minor portion of my time is spent in expanding my knowledge on *computer networking*. I aim to have a good knowledge of networkng by the end of this year.
+I enjoy reading books from my domain or related to my domain. Currenly, I am reading Reactive Programming with Kotlin.
 
 ## Tools
 
