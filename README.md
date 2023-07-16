@@ -13,10 +13,7 @@
 </p>
 
 
-I am a third year student pursuing *Bachelor in Computer Science Engineering with Honors* at Chandigarh University. I am currently 
-working on my *competitive programming* skills. I participate in competitive programming competitions on Saturday and Sunday. I do upsolving to improve my competitive programming skills.
-
-I enjoy reading books from my domain or related to my domain. Currenly, I am reading Reactive Programming with Kotlin.
+I am a fourth year student pursuing *Bachelor in Computer Science Engineering with Honors* at Chandigarh University. I am currently working as an *Intern* at *Fourkites India Private Limited*. Currently, I am focusing on gaining enterprise level experience.
 
 ## Tools
 
